@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2637926444">
+    <data-source source="LOCAL" name="Rails ticketee: development" uuid="57283168-cb09-4d31-a418-056ee71f8428">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:ticketee_development</jdbc-url>
+      <user-password>dfd8dfd3dfcbdfc4dfcedfd3dfdfdfc4dfcbdf9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails ticketee: test" uuid="2f499681-ebaf-430d-b181-a64c414bec16">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:ticketee_test</jdbc-url>
+      <user-password>dfd8dfd3dfcbdfc4dfcedfd3dfdfdfc4dfcbdf9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails ticketee: production" uuid="435f6fc2-0500-4c0e-9531-f373978a396d">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:ticketee_production</jdbc-url>
+      <user-password>dfd8dfd3dfcbdfc4dfcedfd3dfdfdfc4dfcbdf9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
